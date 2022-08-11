@@ -24,7 +24,7 @@ function App() {
     }
   };
 
-  console.log(meanings);
+  // console.log(meanings);
 
   useEffect(() => {
     dictionaryApi();
